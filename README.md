@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi! I'm looking for more projects to contribute to! Hit me up
+### Hi! I'm looking for more projects to contribute to! Hit me up anthonybaynham2001@gmail.com
 
 Currently I'm working on:
 
