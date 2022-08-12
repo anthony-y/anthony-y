@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **anthony-y/anthony-y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi! I'm looking for more projects to contribute to! Hit me up
+
+Currently I'm working on:
+
+👉 [gel - an experimental programming language and compiler](https://github.com/anthony-y/gel)
+
