@@ -13,7 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi! I'm looking for more projects to contribute to! Hit me up anthonybaynham2001@gmail.com
+### Hi!
+
+## I'm looking for more projects to contribute to! Hit me up anthonybaynham2001@gmail.com
+
+I currently freelance as a web developer, but here you will find my hobby projects - mostly low-level stuff.
 
 Currently I'm working on:
 
